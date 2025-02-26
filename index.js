@@ -11,7 +11,7 @@ $("button").click(function(){
         nextSequence();
         $("h1").html("Level 0");
         $("button").hide();
-    }, 200);
+    }, 50);
 
 });
 
